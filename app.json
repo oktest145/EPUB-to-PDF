@@ -1,0 +1,10 @@
+{
+  "name": "EPUB TO PDF CONVERTER",
+  "description": "SYS",
+  "keywords": ["PDF"],
+  "env": {
+  },
+  "website": "https://github.com/oktest145/EPUB-to-PDF",
+  "repository": "https://github.com/oktest145/EPUB-to-PDF",
+  "stack": "container"
+ }
